@@ -1,8 +1,8 @@
 package main
 
 import (
-	"./repl"
 	"fmt"
+	"github.com/dayoshidayoshi00444/Go_interpreter/01/repl"
 	"os"
 	"os/user"
 )

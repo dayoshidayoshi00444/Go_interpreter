@@ -1,10 +1,10 @@
 package repl
 
 import (
-	"../lexer"
-	"../token"
 	"bufio"
 	"fmt"
+	"github.com/dayoshidayoshi00444/Go_interpreter/01/lexer"
+	"github.com/dayoshidayoshi00444/Go_interpreter/01/token"
 	"io"
 )
 
