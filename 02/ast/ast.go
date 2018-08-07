@@ -4,6 +4,7 @@ import "github.com/dayoshidayoshi00444/Go_interpreter/02/token"
 
 type Node interface {
 	TokenLiteral() string
+	String() string
 }
 
 type Statement interface {
